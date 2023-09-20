@@ -12,16 +12,16 @@
 
 <h3>Languages and Frameworks</h3>
 <p>
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>&ensp;
-<img width="40" height="50" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg"/>&ensp;
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>&ensp;
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>&ensp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="40"/>&ensp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" width="40"/>&ensp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40"/>&ensp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40"/>&ensp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40"/>&ensp;
-<img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" width="40" height="40"/>&ensp;
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="python"/>&ensp;
+<img width="40" height="50" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" title="java"/>&ensp;
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="c"/>&ensp;
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="c++"/>&ensp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="40" title="html"/>&ensp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" width="40" title="javascript"/>&ensp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40" title="css"/>&ensp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" title="reactjs"/>&ensp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" title="bootstrap"/>&ensp;
+<img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" width="40" height="40" title="mysql"/>&ensp;
 </p>
 
 All of my public projects are available on this Github profile, check them out!
