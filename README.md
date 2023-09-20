@@ -1,4 +1,5 @@
 <img align="right" width="250" margin-left="25%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRzeGNheDl2NXZvY2g2NWkxM3NzMGVhMXA1eXFjZGtjc2QzZ2dzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif"/>
+<br>
 
 <h2>Hi there, I'm Saniya! 👋</h2> 
 <h4>I'm an inquisitive computer science student who loves learning new stuff and experimenting with different domains. I also love food, literature, art, and travel.</h4>
@@ -9,6 +10,7 @@
 - 📫  How to reach me: saniyavijayvargiya@gmail.com<br><br><br><br>
 
 <img width="200" align="left" hspace="25" src="https://thepracticaldev.s3.amazonaws.com/i/pltswm81s6j50dfb2qqk.jpg"/>
+<br>
 
 <h3>Languages and Frameworks</h3>
 <p>
